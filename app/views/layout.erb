@@ -11,20 +11,20 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <link rel="stylesheet" href="/stylesheets/main.css" />
+    <link rel="stylesheet" href="/stylesheets/style.css" />
   </head>
   <body>
     <div class="wrapper">
       <nav>
         <% if logged_in? %>
           <a href="/logout">Log Out</a> |
-          <a href="/users">All Users</a>
+          <a href="/users">All Users</a> |
+          <a href="/analog_synthesizers">All Analog Synthesizers</a>
         <% else %>
           <a href="/users/new">Sign Up</a> | 
           <a href="/login">Login</a>
         <% end %>
       </nav>
-
         <%= yield %>
 
       <footer class="branding">

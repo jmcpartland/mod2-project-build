@@ -5,16 +5,17 @@ class UsersController < ApplicationController
     erb :"users/index.html"
   end
 
+  # new
+  get "/users/new" do
+    erb :"/users/new.html"
+  end
+  
   # users show
   get "/users/:id" do
     @user = User.find(params[:id])
     erb :"users/show.html"
   end
 
-  # new
-  get "/users/new" do
-    erb :"/users/new.html"
-  end
 
   # create
   post "/users" do

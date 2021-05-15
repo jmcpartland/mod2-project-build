@@ -76,8 +76,14 @@
     clear: both;
   }
 
-  footer.branding {
+  p.branding {
     border-top: 2px solid #ccc;
+    margin-top: 20px;
+    padding-top: 20px;
+  }
+
+  footer.branding {
+    border-top: 2px solid #faf;
     margin-top: 20px;
     padding-top: 20px;
   }
