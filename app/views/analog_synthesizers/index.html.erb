@@ -1,7 +1,7 @@
 <h1>List of Analog Synthesizers</h1>
 <br>
 <ul>
-<% @analog_synthesizers.each do |as| %>
+<% @as.each do |as| %>
     <li>
         <a href="/analog_synthesizers/<%= as.id %>"><%= as.name %>
     </li>

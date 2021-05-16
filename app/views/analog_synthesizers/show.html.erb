@@ -1,6 +1,8 @@
 <br>
-<h1><%= @analog_synthesizer.name %></h1><br>
-<p><b>Manufacturer:</b> <%= @analog_synthesizer.manufacturer %><p>
-<p><b>Date Manfactured:</b> <%= @analog_synthesizer.date_release %><p>
-<p><b>Description:</b><br> <%= @analog_synthesizer.description %><p><br>
-<p><img src="/images/<%=@analog_synthesizer.image%>" alt="<%= @analog_synthesizer.name %>">
+<h1><%= @as.name %></h1><br>
+<p><b>Manufacturer:</b> <%= @as.manufacturer %><p>
+<p><b>Date Manfactured:</b> <%= @as.date_release %><p>
+<p><b>Description:</b><br> <%= @as.description %><p><br>
+<p><img src="/images/<%=@as.image%>" alt="<%= @as.name %>"><br><br>
+
+ <a href="/analog_synthesizers/<%= @as.id %>/edit">Edit <%= @as.name %></a>

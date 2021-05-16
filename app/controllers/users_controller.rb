@@ -9,7 +9,7 @@ class UsersController < ApplicationController
   get "/users/new" do
     erb :"/users/new.html"
   end
-  
+
   # users show
   get "/users/:id" do
     @user = User.find(params[:id])
@@ -23,4 +23,6 @@ class UsersController < ApplicationController
     session[:user_id] = user.id
     redirect "/"
   end
+
+  
 end
