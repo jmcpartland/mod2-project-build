@@ -1,2 +1,7 @@
 <h1><%= @user.username %></h1>
  
+<% if @user.analog_synthesizers.any? %>
+    <% @user.analog_synthesizers.each do |as| %>
+        <a href="/analog_synthesizers/<%= as.id %>"><%= as.name %></a>
+    <% end %>      
+<% end %>

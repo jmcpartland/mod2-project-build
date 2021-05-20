@@ -13,23 +13,53 @@
 
     <link rel="stylesheet" href="/stylesheets/style.css" />
   </head>
+ 
+  <header><h1>Analog Synthesizer CMS</h1></header>
+
   <body>
     <div class="wrapper">
       <nav>
         <% if logged_in? %>
-          <a href="/logout">Log Out</a> |
-          <a href="/users">All Users</a> |
-          <a href="/analog_synthesizers">All Analog Synthesizers</a>
+          <a href="/logout">Log Out</a> 
+          <a href="/users">Show All Users</a> 
+          <a href="/analog_synthesizers">Show All Synthesizers</a>
+          <a href="/analog_synthesizers/new">Add Synthesizer</a>
+
         <% else %>
-          <a href="/users/new">Sign Up</a> | 
+          <a href="/users/new">Sign Up</a> 
           <a href="/login">Login</a>
         <% end %>
       </nav>
+
+      <% if flash[:errors] %>
+      <ul class="errors">
+        <% flash[:errors].each do |error| %>
+          <li><%= error %></li>
+        <% end %>
+      </ul>
+      <% end %>
+
+      <% if flash[:success] %>
+      <ul class="success">
+        <% flash[:success].each do |pass| %>
+          <li><%= pass %></li>
+        <% end %>
+      </ul>
+      <% end %>
+
+
         <%= yield %>
 
+
+
       <footer class="branding">
-        <small><strong>AnalogSynthesizers</strong></small>
+      <% if logged_in? %>
+      <p>Current User: <%= current_user.username %>
+      <% end %>
       </footer>
+
+
+
     </div>
   </body>
 </html>

@@ -20,8 +20,14 @@ class UsersController < ApplicationController
   # create
   post "/users" do
     user = User.create(params)
-    session[:user_id] = user.id
-    redirect "/"
+    if user.valid?
+      flash[:success] = ["You have successfuly created your account"]
+      session[:user_id] = user.id
+      redirect "/"
+    else
+      flash[:errors] = user.errors.full_messages
+      redirect "/users/new"
+    end
   end
 
   

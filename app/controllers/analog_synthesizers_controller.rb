@@ -34,4 +34,10 @@ class AnalogSynthesizerController < ApplicationController
         as.update(params[:analog_synthesizer])
         redirect "/analog_synthesizers/#{as.id}"
     end
+
+    delete "/analog_synthesizers/:id" do
+        as = AnalogSynthesizer.find(params[:id])
+        as.destroy
+        redirect "/analog_synthesizers"
+    end
 end

@@ -2,7 +2,13 @@
 <h1><%= @as.name %></h1><br>
 <p><b>Manufacturer:</b> <%= @as.manufacturer %><p>
 <p><b>Date Manfactured:</b> <%= @as.date_release %><p>
-<p><b>Description:</b><br> <%= @as.description %><p><br>
+<p><b>Description:</b> <%= @as.description %><p><br>
 <p><img src="/images/<%=@as.image%>" alt="<%= @as.name %>"><br><br>
 
- <a href="/analog_synthesizers/<%= @as.id %>/edit">Edit <%= @as.name %></a>
+<div>
+<a href="/analog_synthesizers/<%= @as.id %>/edit">Edit <%= @as.name %></a>
+<form action="/analog_synthesizers/<%= @as.id %>" method="post">
+   <input type="hidden" name="_method" value="delete">
+   <input type="submit" value="Delete Synth">
+</form>
+</div>
