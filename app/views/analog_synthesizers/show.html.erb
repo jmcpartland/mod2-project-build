@@ -2,9 +2,9 @@
 <h1><%= @as.name %></h1><br>
 <p><b>Manufacturer:</b> <%= @as.manufacturer %><p>
 <p><b>Date Manfactured:</b> <%= @as.date_release %><p>
-<p><b>Description:</b> <%= @as.description %><p><br>
-<p><img src="/images/<%=@as.image%>" alt="<%= @as.name %>"><br><br>
+<p><b>Description:</b> <%= @as.description %><br><br>
 
+<% if current_user == @as.user %>
 <div>
 <a href="/analog_synthesizers/<%= @as.id %>/edit">Edit <%= @as.name %></a>
 <form action="/analog_synthesizers/<%= @as.id %>" method="post">
@@ -12,3 +12,4 @@
    <input type="submit" value="Delete Synth">
 </form>
 </div>
+<% end %>

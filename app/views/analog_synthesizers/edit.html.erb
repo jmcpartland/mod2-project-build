@@ -8,6 +8,6 @@
   <label for="date_release">Date Released:</label><br>
   <input type="number" id="date_release" name="date_release" value=<%= @as.date_release %>><br><br>
   <label for="description">Description:</label><br>
-  <textarea id="description" name="description" value=<%= @as.description %> rows="4" cols="50"></textarea><br>
+  <textarea id="description" name="description" rows="4" cols="50"><%= @as.description %></textarea><br>
   <input type="submit" value="Submit">
 </form>

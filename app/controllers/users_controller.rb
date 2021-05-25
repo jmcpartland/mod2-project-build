@@ -1,6 +1,7 @@
 class UsersController < ApplicationController
   # users index
   get "/users" do
+    redirect_if_not_logged_in
     @users = User.all
     erb :"users/index.html"
   end
@@ -12,6 +13,7 @@ class UsersController < ApplicationController
 
   # users show
   get "/users/:id" do
+    redirect_if_not_logged_in
     @user = User.find(params[:id])
     erb :"users/show.html"
   end
@@ -30,5 +32,4 @@ class UsersController < ApplicationController
     end
   end
 
-  
 end
