@@ -42,10 +42,10 @@ class AnalogSynthesizerController < ApplicationController
     end
 
     # delete
-    delete "/analog_synthesizers/:id" do
-        as = AnalogSynthesizer.find(params[:id])
-        if as.user == current_user
-            as.destroy
+    get "/analog_synthesizers/:id/delete" do
+        @as = AnalogSynthesizer.find(params[:id])
+        if @as.user == current_user
+            @as.destroy
             redirect "/analog_synthesizers"
         end
     end
