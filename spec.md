@@ -15,23 +15,23 @@
 
 
 
-  <link crossorigin="anonymous" media="all" integrity="sha512-LIOdgMPCoEgaBOBpRHSdzMIXC0BQl+3B20hYRhyoDICAcS6GTJ4jRrobBZhDZWO4VGNzMZ56U9kllzZzrsc34Q==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-2c839d80c3c2a0481a04e06944749dcc.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-hsKC3ypJkUX/imnakufPNinmC1hvlGtwN80bcJ9eo6idrtk/bKAiSmsjspBviwNrFmFlEsjycjUAtT4Ae+x0rQ==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-86c282df2a499145ff8a69da92e7cf36.css" />
   
-    <link crossorigin="anonymous" media="all" integrity="sha512-W/1pQbqXbVajYzB+B7A5hA/rxIKGbyTLs1PhryoWBKfSRr+SBQSplFKKy7rOAfdQhAZ4Xkcr+UmfVBcLc44r5g==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-5bfd6941ba976d56a363307e07b03984.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-ODG6mt8VrPLP1iF4673MMcI5N2uyooaJ910iorfWKXm6F/XCsJMunCed2+SV1sWVbNRIchvkDmFGDXRP9WJHRg==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-3831ba9adf15acf2cfd62178ebbdcc31.css" />
     
     
     
-    <link crossorigin="anonymous" media="all" integrity="sha512-eUJW+59+FyVquFyVZmjTRjKUuu2czWjt52ouc2eoxldxpPCoTumZx1/nIU5QtTljXBkl4rYvttZ2abVyMFmVZA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-794256fb9f7e17256ab85c956668d346.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-luK3bSniT+BRa3+oVSfzZYcXvrm1ZSHbnS152Alx43dX3CLVIWmfG1xLreMBFHHkEJmO7cl2ILVUKHDm2oGLiQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-96e2b76d29e24fe0516b7fa85527f365.css" />
 
   <script crossorigin="anonymous" defer="defer" integrity="sha512-CzeY4A6TiG4fGZSWZU8FxmzFFmcQFoPpArF0hkH0/J/S7UL4eed/LKEXMQXfTwiG5yEJBI+9BdKG8KQJNbhcIQ==" type="application/javascript" src="https://github.githubassets.com/assets/environment-0b3798e0.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-T8/N7nmDoNCxkRmqgGphmx1Yygfx9lIZvPUQjfUpc6d//Q3bmgKz0sd62gAstmr6EJarvdbDpZ2p3AG7gwtG6g==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-4fcfcdee.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-hj4gBCzfBV2jwA/7yKXddRVpCFofKW+wQVTp2TGzxjcPDvfVMXOnYo+yUjupKswUmrxEZps+xX+JM+xzO4RYaA==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-863e2004.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-rAayX+tAGbFvAwJW7fDoX+NNhMtMEh/AERlttmVRsk3Vk4kl27vs8D6s8IEJs7dMixb+J1VNqDLcAjlssMguJw==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-vendor-ac06b25f.js"></script>
   
-  <script crossorigin="anonymous" defer="defer" integrity="sha512-o8t3W1nrlgoFZT6UMLF/yHNEDGmxaBh82tqioH9a/dHwpfhnPOqRI4w2XdbbJAahCid728t48CCDZz9F+Zm4wg==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-a3cb775b.js"></script>
+  <script crossorigin="anonymous" defer="defer" integrity="sha512-qPi5hh9n372trWzRp2OnsYbbL/ioCFrAcf8Udxayqw6iqHKrO4BJHGJPD2TMGE5qMJcu7craDDSucWJvCz6Ydw==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-a8f8b986.js"></script>
   
     <script crossorigin="anonymous" defer="defer" integrity="sha512-VuP/2HeHlwuxYb9sV0y9/hgN869dWIQDX2WZrvh4VAQjo6tb7PXzbBz0nOYROez0xFLxRc/u6sVU6fuYgcpN8w==" type="application/javascript" data-module-id="./chunk-animate-on-scroll.js" data-src="https://github.githubassets.com/assets/chunk-animate-on-scroll-56e3ffd8.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-ct3QiK2mvpg7zor9R2psdWnNMM2K32RU4RGRB/7yA5FyZ8H4iY6SNynXc7UaJqzBx6NaReg3GsWJPwW3kgAAig==" type="application/javascript" data-module-id="./chunk-codemirror.js" data-src="https://github.githubassets.com/assets/chunk-codemirror-72ddd088.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-EKOvqJ9uTatAt87WxU+OSS4mi7gMUszFbGo4aPErQkjpWLXnrPSeZvK5ngU8OYoIoiVOq+v8dA3C6MF/z2d/kA==" type="application/javascript" data-module-id="./chunk-color-modes.js" data-src="https://github.githubassets.com/assets/chunk-color-modes-10a3afa8.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-9UuJ//O9hwCOI7MwzyVAJXn1D9B0WaQFktu5Qzw+7mg18URfaXXS7LsQVNirCGlgrmKe20UCtbj/4aGmw9Wk7g==" type="application/javascript" data-module-id="./chunk-color-modes.js" data-src="https://github.githubassets.com/assets/chunk-color-modes-f54b89ff.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-zkYZSjUFqSifB+Lt76jclFMrfqpcPqevT801RZcoBNCZHRTBKcFrW9OyJoPOzKFv+fZVDRnqdqGsuIv5KOIgZg==" type="application/javascript" data-module-id="./chunk-contributions-spider-graph.js" data-src="https://github.githubassets.com/assets/chunk-contributions-spider-graph-ce46194a.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-6j/oSF+kbW+yetNPvI684VzAu9pzug6Vj2h+3u1LdCuRhR4jnuiHZfeQKls3nxcT/S3H+oIt7FtigE/aeoj+gg==" type="application/javascript" data-module-id="./chunk-drag-drop.js" data-src="https://github.githubassets.com/assets/chunk-drag-drop-ea3fe848.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-VSSd+Yzi2iMS+pibY6hD/WdypxAEdob5F2RMKxuKcAHS2EpFYJPeTXoVxt0NXg03tfj2dka2mEtHS+vjpYSaDw==" type="application/javascript" data-module-id="./chunk-edit-hook-secret-element.js" data-src="https://github.githubassets.com/assets/chunk-edit-hook-secret-element-55249df9.js"></script>
@@ -39,21 +39,22 @@
     <script crossorigin="anonymous" defer="defer" integrity="sha512-aiqMIGGZGo8AQMjcoImKPMTsZVVRl6htCSY7BpRmpGPG/AF+Wq+P/Oj/dthWQOIk9cCNMPEas7O2zAR6oqn0tA==" type="application/javascript" data-module-id="./chunk-emoji-picker-element.js" data-src="https://github.githubassets.com/assets/chunk-emoji-picker-element-6a2a8c20.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-ejCT9r9E93nir+wK3PibZdMK0J3VXEkbwlgdnOnaUNoiJDI60BMtFt1QwjMU/rLXcjnH0xvgVFINGBFkzvTmRw==" type="application/javascript" data-module-id="./chunk-filter-input.js" data-src="https://github.githubassets.com/assets/chunk-filter-input-7a3093f6.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-Z1wcyOFQHzyMSPqp5DLKrobr3DN2Q6Dz31cfPtw4b2vPs9PX0PrxyDXHpTbIlcZ9qT1M1BNAypHKKw8Lp6Yx/Q==" type="application/javascript" data-module-id="./chunk-insights-graph.js" data-src="https://github.githubassets.com/assets/chunk-insights-graph-675c1cc8.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-Y+VVFzGHo9J5bf4Mrn+RGrh1+IExdybA3C1QqPha3UwkV9RZ75jZgV4DsujViAF0iT9OrLYYHvPk9V6QiXjp3g==" type="application/javascript" data-module-id="./chunk-invitations.js" data-src="https://github.githubassets.com/assets/chunk-invitations-63e55517.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-mMOvER8Uml4WMYbXv8BaahVq9eF1v5Hu7M9/3oPlOFPmTJGH+TmvcRPt8fddj86urb+Ri+vlqotFspA/4STDsQ==" type="application/javascript" data-module-id="./chunk-jump-to.js" data-src="https://github.githubassets.com/assets/chunk-jump-to-98c3af11.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-4iRI95LO0kKcZLWUoOzqI6w8IVGppDVluR4dL7yyz8zgBu/7JAib0MkRN5LUVxXv0KIT6mQ2m5jbKa1NeZoD5A==" type="application/javascript" data-module-id="./chunk-invitations.js" data-src="https://github.githubassets.com/assets/chunk-invitations-e22448f7.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-S5FIOkadGN34UNgwHnVlWaGU6QTjnXIgIhNC1KiRoPIJ1lr3bm+RyU+ar06Dijh10mCX7Gi2+B2oMe8XYJpcHg==" type="application/javascript" data-module-id="./chunk-jump-to.js" data-src="https://github.githubassets.com/assets/chunk-jump-to-4b91483a.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-0DSZHh/iD27pAOXl4AWcxPqgRsJAVr1M8SnaN4gKYH2ZplPywvL5oalqN4Qj03FsB5Ll0pytD5kiTMibgGq0BA==" type="application/javascript" data-module-id="./chunk-launch-code-element.js" data-src="https://github.githubassets.com/assets/chunk-launch-code-element-d034991e.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-Lo0j1owPfYM0txt85KwGzF1PQJLvLFGbRJoASd5ZKMQAV9ZSDg5bVm5UWBAz7glGzw1pkiUD2bCMs2wqyf+CEA==" type="application/javascript" data-module-id="./chunk-notification-list-focus.js" data-src="https://github.githubassets.com/assets/chunk-notification-list-focus-2e8d23d6.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-ma0OOy3nj0c1cqBx0BkcmIFsLqcSZ+MIukQxyEFM/OWTzZpG+QMgOoWPAHZz43M6fyjAUG1jH6c/6LPiiKPCyw==" type="application/javascript" data-module-id="./chunk-profile-pins-element.js" data-src="https://github.githubassets.com/assets/chunk-profile-pins-element-99ad0e3b.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-dmP0pnRItCP7ydEXVipp98lz/HaQtHyG00kfd8lMS5AoLbDwGfqXPjj7Q0qLGpPc7lBkySNNHIeEPF7NblctEA==" type="application/javascript" data-module-id="./chunk-readme-toc-element.js" data-src="https://github.githubassets.com/assets/chunk-readme-toc-element-7663f4a6.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-/kPLzWIe41nxla5A+wcKKPIw4xiAsuITdjbXGVCycmUYnADfCids8FdV+TCA68gr4jAhKIws7flLpL12MoouBA==" type="application/javascript" data-module-id="./chunk-readme-toc-element.js" data-src="https://github.githubassets.com/assets/chunk-readme-toc-element-fe43cbcd.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-F0E2A5YYSz+7eA/RyQ/vYtJzeK2sjNyyneVBqru/CPoRXGBiAcJ2tpN2MWLxkNCqirt88h/BMCAF/7YTZ2qZJA==" type="application/javascript" data-module-id="./chunk-ref-selector.js" data-src="https://github.githubassets.com/assets/chunk-ref-selector-17413603.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-Zii9oRdZ6q2QDNjL5A+me7jwJjMLvs1NiQNHmajUZnn4t9shcBDb4F8l/PQZW26eYfe5065oM7lIOSmbMinA7Q==" type="application/javascript" data-module-id="./chunk-responsive-underlinenav.js" data-src="https://github.githubassets.com/assets/chunk-responsive-underlinenav-6628bda1.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-9WNXtB07IyWypiPmkuucspwog4mme9q5GKGMSgd7FI0DPimmg/pEw+aaAofFV1vuWMt9I8H5QpsVtlbHGg1YBA==" type="application/javascript" data-module-id="./chunk-runner-groups.js" data-src="https://github.githubassets.com/assets/chunk-runner-groups-f56357b4.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-fIq9Mn7jY/bHQXnsmh+VejpDnaO+d/FDxsp+4CuZtdNLrLuO+dQCjh+m6Yd8GCYD2Cy6DWbCEyM+mH2dkB2H9A==" type="application/javascript" data-module-id="./chunk-sortable-behavior.js" data-src="https://github.githubassets.com/assets/chunk-sortable-behavior-7c8abd32.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-WK8VXw3lfUQ/VRW0zlgKPhcMUqH0uTnB/KzePUPdZhCm/HpxfXXHKTGvj5C0Oex7+zbIM2ECzULbtTCT4ug3yg==" type="application/javascript" data-module-id="./chunk-toast.js" data-src="https://github.githubassets.com/assets/chunk-toast-58af155f.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-vgHJEmEJxNmHucGbVY8bEUoOYo5/ZwpQ69rU8Dld89daWJ54uad9lNptxq32F8pnbHhdngw9lohNEbMbjmj5AQ==" type="application/javascript" data-module-id="./chunk-tweetsodium.js" data-src="https://github.githubassets.com/assets/chunk-tweetsodium-be01c912.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-aSxfTHAZj9wv7n08DxgAKkNg7jhiTo4yKKbDqLGxcDxUk/al571Y2ZSsOmLJ0Vh8cuAL8tW+JgX1t0JeKfyfaA==" type="application/javascript" data-module-id="./chunk-user-status-submit.js" data-src="https://github.githubassets.com/assets/chunk-user-status-submit-692c5f4c.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-a+Pr9qPUoA3j8O0EiWfWwxWH4ZiB1fweLkYrjYlvyy/SeJbcjR1B4UyYjypFb9kvoy7I2bwXU9ctjZInmlyBXg==" type="application/javascript" data-module-id="./chunk-user-status-submit.js" data-src="https://github.githubassets.com/assets/chunk-user-status-submit-6be3ebf6.js"></script>
   
-  <script crossorigin="anonymous" defer="defer" integrity="sha512-RNox4a6ApSlI2qY0iLpxZGWT4zM4QA51Jaa6QBy3aCiYGD6S3oTTfPXhHInKLzI8X77tnnJuqww2VsefuZRizw==" type="application/javascript" src="https://github.githubassets.com/assets/repositories-44da31e1.js"></script>
-<script crossorigin="anonymous" defer="defer" integrity="sha512-g8AcswiLzacGKVK2+Z4Y7SUoga++8vFE+E+ZXLDnDXFQYoosl0QNK+9Hf0f2U5ZhSLRGUx2gMi/XHA5okjHIxg==" type="application/javascript" src="https://github.githubassets.com/assets/diffs-83c01cb3.js"></script>
+  <script crossorigin="anonymous" defer="defer" integrity="sha512-+ENy3aqRqLrVzimPscwGcF8nAVSMcGWs7rqA/7B8Cj0ZpfA4oK5QzghzMMDVTM3pVEKtOYNdnzl3+N1/crdv+g==" type="application/javascript" src="https://github.githubassets.com/assets/repositories-f84372dd.js"></script>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-LuxBgyY2ZOF1Yi1Hz1+o0TMTHvhTWdE1RwYP0dEg+O8Hy9Y34bM5U9IWzvMBA2v/JRF4wKCE+HPc72tAvINZOw==" type="application/javascript" src="https://github.githubassets.com/assets/diffs-2eec4183.js"></script>
 
   <meta name="viewport" content="width=device-width">
   
@@ -71,11 +72,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/78101906/ws?session=eyJ2IjoiVjMiLCJ1Ijo3ODEwMTkwNiwicyI6NjYxMjk2MjUwLCJjIjozMzA1NzYyNjE5LCJ0IjoxNjIxODU1NDQyfQ==--4a5d5f962fe60ae599a5ef8aa953118c8eef50a20584b771aa425f521a5c0512" data-refresh-url="/_alive" data-session-id="26d5acc8bd4b11dc7616c5015cb3ae3391a34daae10a426cebd2d09ed5a979ee">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/78101906/ws?session=eyJ2IjoiVjMiLCJ1Ijo3ODEwMTkwNiwicyI6NjYxMjk2MjUwLCJjIjozNDgxMDE5NTA0LCJ0IjoxNjIyMzMwOTA5fQ==--bcc3494655f43766436e6765daa23d88789f000ff54c592e9a910ae31ebe8ff9" data-refresh-url="/_alive" data-session-id="26d5acc8bd4b11dc7616c5015cb3ae3391a34daae10a426cebd2d09ed5a979ee">
     <link rel="shared-web-socket-src" href="/socket-worker-3f088aa2.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="FD7B:5A9D:24FDAD4:384F742:60AB8CB9" data-pjax-transient="true" /><meta name="html-safe-nonce" content="58a17f01b650b18fb558ff92470db06ebb791ed8a2eabe8594b28dde7a374dea" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9sZWFybi1jby1zdHVkZW50cy9zaW5hdHJhLWNtcy1hcHAtYXNzZXNzbWVudC12LTAwMC9maW5kL21hc3RlciIsInJlcXVlc3RfaWQiOiJGRDdCOjVBOUQ6MjRGREFENDozODRGNzQyOjYwQUI4Q0I5IiwidmlzaXRvcl9pZCI6Ijg4NDQzNzI5NDQ0Njc2MzMxNjUiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="a56c29cde1f87bf1ffa82fdba42cf39830f91990f717f98a972121c67d8e5475" data-pjax-transient="true" />
+  <meta name="request-id" content="D29E:46F3:4213E:260080:60B2CE1D" data-pjax-transient="true" /><meta name="html-safe-nonce" content="58a17f01b650b18fb558ff92470db06ebb791ed8a2eabe8594b28dde7a374dea" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkQyOUU6NDZGMzo0MjEzRToyNjAwODA6NjBCMkNFMUQiLCJ2aXNpdG9yX2lkIjoiODg0NDM3Mjk0NDQ2NzYzMzE2NSIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="ff671996efac1201027ce85b96dc0e8bddc0d83b3bfef548255058496aa2c3ce" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:50543574" data-pjax-transient>
 
@@ -114,11 +115,11 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="ZDM3ZTVhNTRlODFmOWQwZGM4NGNkNjM3ZDU1NjZiM2ZlZmMzYmIwMTAzY2I4ZjkwYjg4Y2RiYjE5ZGU4YmQ1ZHx7InJlbW90ZV9hZGRyZXNzIjoiNzMuMjQzLjQ0LjE5NyIsInJlcXVlc3RfaWQiOiJGRDdCOjVBOUQ6MjRGREFENDozODRGNzQyOjYwQUI4Q0I5IiwidGltZXN0YW1wIjoxNjIxODU1NDQyLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+      <meta name="js-proxy-site-detection-payload" content="MmY1YzhhMmM1MmQwNjY4M2QxYjEzNDZhNGIwNWYxYTBlMjAxODlkM2YwYzdiZTQyZDQ0NDcwYzgwZGRhZDhkYnx7InJlbW90ZV9hZGRyZXNzIjoiNzMuMjQzLjQ0LjE5NyIsInJlcXVlc3RfaWQiOiJEMjlFOjQ2RjM6NDIxM0U6MjYwMDgwOjYwQjJDRTFEIiwidGltZXN0YW1wIjoxNjIyMzMwOTA5LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,AUTOCOMPLETE_EMOJIS_IN_MARKDOWN_EDITOR,GITHUB_TOKEN_PERMISSION,ACTIONS_CONCURRENCY_UI">
 
-  <meta http-equiv="x-pjax-version" content="dcb20b65c1392de9b5c3ce7ff013ca876bd83796da3d48d02e639645579b69c0">
+  <meta http-equiv="x-pjax-version" content="be5b171e15c0a196872e95a02357b275c8b7ba4d6520ecb5941074607c0f1c63">
   
 
     
@@ -162,6 +163,7 @@
       
 
 
+        
             <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap" role="banner" >
     <div class="Header-item mt-n1 mb-n1  d-none d-md-flex">
       <a class="Header-link " href="https://github.com/" data-hotkey="g d"
@@ -173,7 +175,9 @@
 
     <div class="Header-item d-md-none">
       <button class="Header-link btn-link js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
-        <svg height="24" class="octicon octicon-three-bars" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path></svg>
+        <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="24" width="24" class="octicon octicon-three-bars">
+    <path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path>
+</svg>
       </button>
     </div>
 
@@ -205,7 +209,7 @@
             spellcheck="false"
             autocomplete="off"
           >
-          <input type="hidden" value="Wuv7i/NP0/wcrC1HzmdSw+Zz+3CkbXkYzD99IgfVeJba35ejcPxFzyQmFohYy2vVIFGCuBoXBe35mr7biASL8Q==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="3EV1AIrBuBj4a1PhW6KTgg5fStM1icv8zBo3yPv0YXxccRkoCXIuK8DhaC7NDqqUyH0zG4vztwn5v/QxdCWSGw==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -393,7 +397,7 @@
       <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/78101906?s=40&amp;v=4" width="20" height="20" alt="@jmcpartland" />
       jmcpartland
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OagfwmIBXThcxtCSu4xc9F2ljbbGsVNx2mavnxY/+kQoda3TCWNPLs7FO+9/14Fyq9wT480l30F6A634fwSycQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="iABRep/jlRkGRX7VtCmTkBXdRgar69cGdGI4GMQjUK6Z3eNr9IGHD5RGlahwck4W46TYU6B/WzbUBzp/rRgYmw==" />
       <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -417,7 +421,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzgxMDE5MDYiLCJ0IjoxNjIxODU1NDQyfQ==--1a634b69128553c60527257189802b413caf07fbdd792f2d7915e0096293a346">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzgxMDE5MDYiLCJ0IjoxNjIyMzMwOTA5fQ==--faec8c820b5a3dff0c65566086e4c11f05aea5a04f29beec64faaa15000d4cab">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -436,7 +440,7 @@
 
 
     <div class="Header-item position-relative d-none d-md-flex">
-        <details class="details-overlay details-reset js-header-promo-toggle">
+        <details class="details-overlay details-reset">
   <summary class="Header-link"
       aria-label="Create new…"
       data-ga-click="Header, create new, icon:add">
@@ -479,7 +483,7 @@
 
     <div class="Header-item position-relative mr-0 d-none d-md-flex">
         
-  <details class="details-overlay details-reset js-header-promo-toggle js-feature-preview-indicator-container" data-feature-preview-indicator-src="/users/jmcpartland/feature_preview/indicator_check">
+  <details class="details-overlay details-reset js-feature-preview-indicator-container" data-feature-preview-indicator-src="/users/jmcpartland/feature_preview/indicator_check">
 
   <summary class="Header-link"
     aria-label="View profile and more"
@@ -508,7 +512,6 @@
 </details>
 
     </div>
-    
 </header>
 
             
@@ -650,7 +653,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gRKPsuQy8hE1/SqKpMjgHj7EjTyGYMPsjstoozqqi73wWIhL1pqCrA5nmIPIxqMLNJV4bnA05gy3Ngy4f9kcXA==" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="0/6C6Rqd2IZNLfs9SwdqWxvdYFf13THLUiCDBsQIpUmitIUQKDWoO3a3STQnCSlOEYyVBQOJFCtr3ecdgXsyqA==" />
 
                 <input type="hidden" name="repository_id" value="50543574">
 
@@ -762,7 +765,7 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lsEMyvvVjVLtVy8oEL80cQryBSywEuJFsTM2/XD6zSTniwszyX3979bNnSF8sXdkAKPwfkZGx6WIzlLmNYlaxQ==" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="t/seI1glEAK2nP/blA98NfKNVX65Dbl/HPKlWemFMn3GsRnaao1gv40GTdL4AT8g+NygLE9ZnJ8lD8FCrPalnA==" />
 
               <input type="hidden" name="repository_id" value="50543574">
 
@@ -920,7 +923,7 @@
 
   <li>
         <div class="d-block js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/learn-co-students/sinatra-cms-app-assessment-v-000/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YdxrFhdnoLsAUJJDYXdiFT3u96B7+IcVXCq4dV+OzsKrsL8S7giK1rTxarZszyYWSfYGj74jRloHueYnsTTSxA==" />
+    <form class="starred js-social-form" action="/learn-co-students/sinatra-cms-app-assessment-v-000/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8tptDTW2IUot8kAXw7fQdePEWkPPYIctQvzqNkabWPU4trkJzNkLJ5lTuOLOD5R2l9yrbAq7RmIZb7RkqCFE8w==" />
       <input type="hidden" name="context" value="repository">
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar learn-co-students/sinatra-cms-app-assessment-v-000" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:50543574,&quot;originating_url&quot;:&quot;https://github.com/learn-co-students/sinatra-cms-app-assessment-v-000/blob/master/spec.md&quot;,&quot;user_id&quot;:78101906}}" data-hydro-click-hmac="234e50bc45eb7c4b2ddc119431f9a3b6937017a52014e0397d0c9a2d9200d9cf" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-star-fill mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
@@ -932,7 +935,7 @@
            3
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/learn-co-students/sinatra-cms-app-assessment-v-000/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Bj5TQ4QuEKH9NmJkYDaJ12q4Y5RnGR6JgQ/NEor3yCJNvPWcLDXL1nDYLPycLk4XOshVrF0iKg09cdN9y9lvUw==" />
+    <form class="unstarred js-social-form" action="/learn-co-students/sinatra-cms-app-assessment-v-000/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DcyTlHmYRdEGH6N+3Vqk1Sky07Gq1Y9ZL54ZmGunAcBGTjVL0YOepovx7eYhQmMVeULliZDuu92T4Af3KommsQ==" />
       <input type="hidden" name="context" value="repository">
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star learn-co-students/sinatra-cms-app-assessment-v-000" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:50543574,&quot;originating_url&quot;:&quot;https://github.com/learn-co-students/sinatra-cms-app-assessment-v-000/blob/master/spec.md&quot;,&quot;user_id&quot;:78101906}}" data-hydro-click-hmac="1d0111bdeda0f42f35f8a6cad74aadac80bba4086288860ec8fe14ac0e0089df" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-star mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
@@ -948,15 +951,15 @@
   </li>
 
   <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/learn-co-students/sinatra-cms-app-assessment-v-000/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="XAGJz2PbBmVwvuyaOq9dgxZpN/BYkaedT3iJaB0Y7os+g6E7R9sUOXMrfM0WpHV966Yy+0CdWdzYhqEvGHnokQ==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/learn-co-students/sinatra-cms-app-assessment-v-000/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="S9+iS5nmPCURn/aFrV7fqI27Q9m81ktBq4mKDYMtRigpXYq/veYueRIKZtKBVfdWcHRG0qTatQA8d6JKhkxAMg==" />
               <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:50543574,&quot;originating_url&quot;:&quot;https://github.com/learn-co-students/sinatra-cms-app-assessment-v-000/blob/master/spec.md&quot;,&quot;user_id&quot;:78101906}}" data-hydro-click-hmac="a3c2199de21c61cbd871e2646cfa2b3b1af3a02f48c9d26bcc2b03bcdac06ed0" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of learn-co-students/sinatra-cms-app-assessment-v-000 to your account" aria-label="Fork your own copy of learn-co-students/sinatra-cms-app-assessment-v-000 to your account">                <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-repo-forked">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>
                 Fork
 </button></form>
       <a href="/learn-co-students/sinatra-cms-app-assessment-v-000/network/members" class="social-count"
-         aria-label="951 users forked this repository">
-        951
+         aria-label="952 users forked this repository">
+        952
       </a>
   </li>
 </ul>
@@ -1176,7 +1179,9 @@
 
               <template data-target="ref-selector.itemTemplate">
   <a href="https://github.com/learn-co-students/sinatra-cms-app-assessment-v-000/blob/{{ urlEncodedRefName }}/spec.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
-    <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+    <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
     <span class="flex-1 css-truncate css-truncate-overflow {{ isFilteringClass }}">{{ refName }}</span>
     <span hidden="{{ isNotDefault }}" class="Label Label--secondary flex-self-start">default</span>
   </a>
@@ -1214,7 +1219,9 @@
 
               <template data-target="ref-selector.itemTemplate">
   <a href="https://github.com/learn-co-students/sinatra-cms-app-assessment-v-000/blob/{{ urlEncodedRefName }}/spec.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
-    <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+    <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
     <span class="flex-1 css-truncate css-truncate-overflow {{ isFilteringClass }}">{{ refName }}</span>
     <span hidden="{{ isNotDefault }}" class="Label Label--secondary flex-self-start">default</span>
   </a>
@@ -1295,92 +1302,17 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      
-  <div class="Box-header Box-header--blue Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/howardbdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/howardbdev"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/16282320?s=48&amp;v=4" width="24" height="24" alt="@howardbdev" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/howardbdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/howardbdev">howardbdev</a>
-
-                <span class="markdown-title">
-                  <a data-pjax="true" title="make displaying validation errors optional" class="Link--secondary" href="/learn-co-students/sinatra-cms-app-assessment-v-000/commit/2c0d71e919590161963c7f538a0b7d54f8c79b74">make displaying validation errors optional</a>
-                </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/learn-co-students/sinatra-cms-app-assessment-v-000/commit/2c0d71e919590161963c7f538a0b7d54f8c79b74/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
+      <include-fragment src="/learn-co-students/sinatra-cms-app-assessment-v-000/contributors/master/spec.md" class="commit-loader">
+        <div class="Box-header Box-header--blue d-flex flex-items-center">
+          <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+          <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
         </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-text-secondary no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/learn-co-students/sinatra-cms-app-assessment-v-000/commit/2c0d71e919590161963c7f538a0b7d54f8c79b74" data-pjax>2c0d71e</a>
-            <span itemprop="dateModified"><relative-time datetime="2018-09-21T15:54:34Z" class="no-wrap">Sep 21, 2018</relative-time></span>
-          </span>
 
-          <a data-pjax href="/learn-co-students/sinatra-cms-app-assessment-v-000/commits/master/spec.md" class="ml-3 no-wrap Link--primary no-underline">
-            <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-history text-gray">
-    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
-</svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
+        <div class="Box-body d-flex flex-items-center" >
+          <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+          <span class="color-text-danger h6 loader-error">Cannot retrieve contributors at this time</span>
         </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default color-text-primary float-left mr-3" id="blob_contributors_box">
-      <summary class="Link--primary">
-        <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-people text-gray">
-    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
-</svg>
-        <strong>4</strong>
-        
-        contributors
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/learn-co-students/sinatra-cms-app-assessment-v-000/contributors-list/master/spec.md" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-x">
-    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
-</svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment>
-          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" viewBox="0 0 16 16" fill="none" data-view-component="true" width="32" height="32" class="my-3 mx-auto d-block anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-        </include-fragment>
-      </details-dialog>
-    </details>
-      <span class="">
-    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/howardbdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/learn-co-students/sinatra-cms-app-assessment-v-000/commits/master/spec.md?author=howardbdev">
-      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/16282320?s=48&amp;v=4" width="24" height="24" alt="@howardbdev" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/PeterBell/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/learn-co-students/sinatra-cms-app-assessment-v-000/commits/master/spec.md?author=PeterBell">
-      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/4843?s=48&amp;v=4" width="24" height="24" alt="@PeterBell" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/Lukeghenco/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/learn-co-students/sinatra-cms-app-assessment-v-000/commits/master/spec.md?author=Lukeghenco">
-      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/15013243?s=48&amp;v=4" width="24" height="24" alt="@Lukeghenco" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/weezwo/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/learn-co-students/sinatra-cms-app-assessment-v-000/commits/master/spec.md?author=weezwo">
-      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/19954790?s=48&amp;v=4" width="24" height="24" alt="@weezwo" /> 
-</a>
-</span>
-
-  </div>
-    </div>
+</include-fragment>    </div>
 
 
 
@@ -1438,7 +1370,7 @@
 </svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/learn-co-students/sinatra-cms-app-assessment-v-000/edit/master/spec.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="oalaxTsvX2hUEr6sp1Z2AihmLYc5h/311daj34ZJ8cIi0B9CxijvBlht70YYK0CZJqBrSPsb1f6SkVXm02dSFg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/learn-co-students/sinatra-cms-app-assessment-v-000/edit/master/spec.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JUCl0VJSKZsvHTPMIHVVemZd61BIezCk6D71ckBpnw6mOeBWr1WZ9SNiYiafCGPhaJutn4rnGK+veQNLFUc82g==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-pencil">
@@ -1446,7 +1378,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/learn-co-students/sinatra-cms-app-assessment-v-000/delete/master/spec.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="i4sgbsehY/Q7DJ3a99ZqzPZ6dewKIKo9jnSivef3b2CZKLgrMnTJdhHmzdzXQ4ykw7JCQpQnG/6dNqaJyWKvMg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/learn-co-students/sinatra-cms-app-assessment-v-000/delete/master/spec.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gO0rbXRcYStVP7uJl8dLZrFkJ7VB2hWv8Vl8sWatNZWSTrMogYnLqX/V64+3Uq0OhKwQG9/dpGziG3iFSDj1xw==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-trash">
@@ -1459,7 +1391,9 @@
     <div class="d-flex hide-lg hide-xl flex-order-2 flex-grow-0">
       <details class="dropdown details-reset details-overlay d-inline-block">
         <summary class="btn-octicon" aria-haspopup="true" aria-label="possible actions">
-          <svg height="16" class="octicon octicon-kebab-horizontal" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path></svg>
+          <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
         </summary>
 
         <ul class="dropdown-menu dropdown-menu-sw">
@@ -1561,7 +1495,9 @@
     </ul>
 
     <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mx-lg-4" href="https://github.com">
-      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+      <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="24" width="24" class="octicon octicon-mark-github">
+    <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
+</svg>
 </a>
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
         <li class="mr-3 mr-lg-0"><a href="https://support.github.com" data-ga-click="Footer, go to contact, text:contact">Contact GitHub</a></li>

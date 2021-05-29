@@ -1,5 +1,0 @@
-users.create(username: "Joe", password_digest: "123456")
-users.create(username: "Jenny", password_digest: "123456")
-users.create(username: "Mary", password_digest: "123456")
-users.create(username: "Jim", password_digest: "123456")
-users.create(username: "Mike", password_digest: "123456")
