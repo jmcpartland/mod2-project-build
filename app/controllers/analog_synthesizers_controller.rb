@@ -40,11 +40,11 @@ class AnalogSynthesizersController < ApplicationController
     end
 
     patch "/analog_synthesizers/:id" do
-        as = AnalogSynthesizer.find(params[:id])
+        @as = AnalogSynthesizer.find(params[:id])
         # binding.pry
-        if as.user == current_user
-            as.update(params[:analog_synthesizers])
-            redirect "/analog_synthesizers/#{as.id}"
+        if @as.user == current_user
+            @as.update(name: params[:name], manufacturer: params[:manufacturer], date_release: params[:date_release], description: params[:description])
+            redirect "/analog_synthesizers/#{@as.id}"
         end
     end
 
