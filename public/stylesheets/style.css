@@ -10,7 +10,7 @@
       height: 100%;
       width: 100%;
     }
-  
+
     header {
       padding: 60px;
       text-align: left;
@@ -22,6 +22,8 @@
       padding: 8px 21px;
       margin-bottom: 21px;
     }
+
+    
     /* --- Welcome Page Styles --- */
     body {
       background-color: rgb(210, 247, 219);
@@ -40,7 +42,6 @@
       padding: 2.25%; /* 18px / 800px */
       width: 85%;
     }
-  
 
 
     nav a {

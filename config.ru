@@ -8,4 +8,4 @@ use Rack::MethodOverride
 run ApplicationController
 use UsersController
 use SessionsController
-use AnalogSynthesizerController
+use AnalogSynthesizersController

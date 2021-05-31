@@ -1,3 +1,3 @@
-Createa .env fi  le in your root directory with the following
+Analog Synthesizer Content Management System.
 
-SESSION_SECRET=<Your Secret Here>
+Run bundle install before using this application

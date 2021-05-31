@@ -20,10 +20,11 @@
     <div class="wrapper">
       <nav>
         <% if logged_in? %>
-          <a href="/logout">Log Out</a> 
-          <a href="/users">Show All Users</a> 
+          <a href="/analog_synthesizers/my">My Synthesizers</a> 
           <a href="/analog_synthesizers">Show All Synthesizers</a>
           <a href="/analog_synthesizers/new">Add Synthesizer</a>
+          <a href="/users">Show All Users</a> 
+          <a href="/logout">Log Out</a> 
 
         <% else %>
           <a href="/users/new">Sign Up</a> 

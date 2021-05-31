@@ -1,9 +1,15 @@
-class AnalogSynthesizerController < ApplicationController
+class AnalogSynthesizersController < ApplicationController
 
     # index
     get "/analog_synthesizers" do
         @as = AnalogSynthesizer.all
         erb :"analog_synthesizers/index.html"
+    end
+
+    get "/analog_synthesizers/my" do
+        redirect_if_not_logged_in
+        @as = AnalogSynthesizer.all
+        erb :"analog_synthesizers/my.html"
     end
 
     # new
@@ -35,8 +41,9 @@ class AnalogSynthesizerController < ApplicationController
 
     patch "/analog_synthesizers/:id" do
         as = AnalogSynthesizer.find(params[:id])
+        # binding.pry
         if as.user == current_user
-            as.update(params[:analog_synthesizer])
+            as.update(params[:analog_synthesizers])
             redirect "/analog_synthesizers/#{as.id}"
         end
     end
@@ -46,7 +53,7 @@ class AnalogSynthesizerController < ApplicationController
         @as = AnalogSynthesizer.find(params[:id])
         if @as.user == current_user
             @as.destroy
-            redirect "/analog_synthesizers"
+            redirect "/analog_synthesizers/my"
         end
     end
 end

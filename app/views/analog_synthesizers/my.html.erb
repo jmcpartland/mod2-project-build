@@ -1,0 +1,11 @@
+<h1><%= current_user.username %>'s Analog Synthesizers</h1>
+<br>
+<ul>
+<% @as.each do |as| %>
+    <% if as.user_id == current_user.id %>
+        <li>
+            <a href="/analog_synthesizers/<%= as.id %>"><%= as.name %>
+        </li>
+    <% end %>
+<% end %>
+</ul>

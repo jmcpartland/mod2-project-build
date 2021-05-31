@@ -1,6 +1,7 @@
 <h1>Edit <%=@as.name %></h1>
 <br>
 <form action="/analog_synthesizers/<%= @as.id %>" method="post">
+  <input type="hidden" name="_method" value="patch">
   <label for="name">Name:</label><br>
   <input type="text" id="name" name="name" value=<%= @as.name %>><br><br>
   <label for="manufacturer">Manufacturer:</label><br>
