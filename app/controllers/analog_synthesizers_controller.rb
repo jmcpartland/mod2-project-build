@@ -26,11 +26,23 @@ class AnalogSynthesizersController < ApplicationController
     end
 
     # create
+    # post "/analog_synthesizers" do
+    #     redirect_if_not_logged_in
+    #     @as = current_user.analog_synthesizers.create(params)
+    #     redirect "/analog_synthesizers/#{@as.id}"
+    # end
+
     post "/analog_synthesizers" do
-        redirect_if_not_logged_in
-        as = current_user.analog_synthesizers.create(params)
-        redirect "/analog_synthesizers/#{as.id}"
+        @as = AnalogSynthesizer.create(params)
+        if @as.valid?
+            flash[:success] = ["You have successfuly created your Synthesizer"]
+            redirect "/analog_synthesizers/#{@as.id}"
+        else
+            flash[:errors] = @as.errors.full_messages
+            redirect "/analog_synthesizers"
+        end
     end
+
 
     # edit
     get "/analog_synthesizers/:id/edit" do
